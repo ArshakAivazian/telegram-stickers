@@ -15,7 +15,8 @@
         "label": "Voice and trust · OpenAI",
         "url": "https://openai.com/index/gpt-4o-system-card/"
       }
-    ]
+    ],
+    "category": "Extra"
   },
   {
     "id": "CL-002",
@@ -33,7 +34,8 @@
         "label": "Charybdis · Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Charybdis"
       }
-    ]
+    ],
+    "category": "Extra"
   },
   {
     "id": "CL-003",
@@ -51,7 +53,8 @@
         "label": "Sirens · Homer",
         "url": "https://classics.mit.edu/Homer/odyssey.12.xii.html"
       }
-    ]
+    ],
+    "category": "Main"
   },
   {
     "id": "CL-004",
@@ -69,7 +72,8 @@
         "label": "Exponential growth · Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Exponential_growth"
       }
-    ]
+    ],
+    "category": "Extra"
   },
   {
     "id": "CL-006",
@@ -87,7 +91,8 @@
         "label": "Self-binding · Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Ulysses_pact"
       }
-    ]
+    ],
+    "category": "Extra"
   },
   {
     "id": "CL-007",
@@ -105,7 +110,8 @@
         "label": "Pacing the frontier · Dario Amodei",
         "url": "https://darioamodei.com/post/we-must-pace-the-frontier"
       }
-    ]
+    ],
+    "category": "Main"
   },
   {
     "id": "CL-009",
@@ -123,7 +129,8 @@
         "label": "Trump’s AI remarks · AP",
         "url": "https://apnews.com/article/b85df16775ff7e9611a456b061a0e4b9"
       }
-    ]
+    ],
+    "category": "Main"
   },
   {
     "id": "CL-010",
@@ -141,7 +148,8 @@
         "label": "Pope on AI risk · Vatican",
         "url": "https://press.vatican.va/content/leo-xiv/en/speeches/2026/september/documents/20260928-francia-volo-ritorno.html"
       }
-    ]
+    ],
+    "category": "Extra"
   },
   {
     "id": "CL-011",
@@ -159,7 +167,8 @@
         "label": "Doomscrolling · Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Doomscrolling"
       }
-    ]
+    ],
+    "category": "Extra"
   },
   {
     "id": "CL-012",
@@ -177,7 +186,8 @@
         "label": "Odysseus and the Sirens · Homer",
         "url": "https://classics.mit.edu/Homer/odyssey.12.xii.html"
       }
-    ]
+    ],
+    "category": "Main"
   },
   {
     "id": "CL-013",
@@ -195,7 +205,8 @@
         "label": "Viral spread · Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Viral_phenomenon"
       }
-    ]
+    ],
+    "category": "Extra"
   },
   {
     "id": "CL-014",
@@ -213,7 +224,8 @@
         "label": "Superpersuasion · LessWrong",
         "url": "https://www.lesswrong.com/posts/cGFBqg9SKsqbuzNHF/levels-of-superpersuasion"
       }
-    ]
+    ],
+    "category": "Main"
   },
   {
     "id": "CL-016",
@@ -231,7 +243,8 @@
         "label": "Ulysses pact · Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Ulysses_pact"
       }
-    ]
+    ],
+    "category": "Extra"
   },
   {
     "id": "CL-017",
@@ -249,7 +262,8 @@
         "label": "Sirens · Homer",
         "url": "https://classics.mit.edu/Homer/odyssey.12.xii.html"
       }
-    ]
+    ],
+    "category": "Extra"
   },
   {
     "id": "CL-018",
@@ -267,7 +281,8 @@
         "label": "Claude · Anthropic",
         "url": "https://www.anthropic.com/news/introducing-claude"
       }
-    ]
+    ],
+    "category": "Main"
   },
   {
     "id": "CL-019",
@@ -285,7 +300,8 @@
         "label": "AI slop · Wikipedia",
         "url": "https://en.wikipedia.org/wiki/AI_slop"
       }
-    ]
+    ],
+    "category": "Main"
   },
   {
     "id": "CL-020",
@@ -303,7 +319,8 @@
         "label": "AI slop · Wikipedia",
         "url": "https://en.wikipedia.org/wiki/AI_slop"
       }
-    ]
+    ],
+    "category": "Extra"
   },
   {
     "id": "CL-021",
@@ -321,7 +338,8 @@
         "label": "Grimes on AI · Interview",
         "url": "https://www.interviewmagazine.com/music/the-return-of-grimes"
       }
-    ]
+    ],
+    "category": "Main"
   },
   {
     "id": "CL-022",
@@ -339,7 +357,8 @@
         "label": "Musk’s AGI reaction · Memeburn",
         "url": "https://memeburn.com/elon-musk-says-claude-opus-5-5-made-him-feel-the-agi-the-post-he-endorsed-says-xai-is-next/"
       }
-    ]
+    ],
+    "category": "Extra"
   },
   {
     "id": "CL-023",
@@ -357,7 +376,8 @@
         "label": "P(doom) · Wikipedia",
         "url": "https://en.wikipedia.org/wiki/P%28doom%29"
       }
-    ]
+    ],
+    "category": "Main"
   },
   {
     "id": "CL-024",
@@ -375,7 +395,8 @@
         "label": "AI and longevity · Dario Amodei",
         "url": "https://darioamodei.com/essay/machines-of-loving-grace"
       }
-    ]
+    ],
+    "category": "Extra"
   },
   {
     "id": "CL-025-shirt",
@@ -393,7 +414,8 @@
         "label": "Mast bargain · Homer",
         "url": "https://classics.mit.edu/Homer/odyssey.12.xii.html"
       }
-    ]
+    ],
+    "category": "Extra"
   },
   {
     "id": "CL-026",
@@ -415,7 +437,8 @@
         "label": "Superpersuasion · LessWrong",
         "url": "https://www.lesswrong.com/posts/cGFBqg9SKsqbuzNHF/levels-of-superpersuasion"
       }
-    ]
+    ],
+    "category": "Extra"
   },
   {
     "id": "CL-027",
@@ -433,7 +456,8 @@
         "label": "Cyberware · Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Cyberpunk_%28role-playing_game%29#Empathy_and_cyberpsychosis"
       }
-    ]
+    ],
+    "category": "Extra"
   },
   {
     "id": "CL-029",
@@ -451,7 +475,8 @@
         "label": "AI sycophancy · Anthropic",
         "url": "https://www.anthropic.com/research/towards-understanding-sycophancy-in-language-models"
       }
-    ]
+    ],
+    "category": "Main"
   },
   {
     "id": "CL-030",
@@ -469,7 +494,8 @@
         "label": "Reassurance and sycophancy · Anthropic",
         "url": "https://www.anthropic.com/research/towards-understanding-sycophancy-in-language-models"
       }
-    ]
+    ],
+    "category": "Extra"
   },
   {
     "id": "CL-031",
@@ -487,7 +513,8 @@
         "label": "Cyberware · Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Cyberpunk_%28role-playing_game%29#Empathy_and_cyberpsychosis"
       }
-    ]
+    ],
+    "category": "Extra"
   },
   {
     "id": "CL-032",
@@ -505,7 +532,8 @@
         "label": "Cyberpsychosis · Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Cyberpunk_%28role-playing_game%29#Empathy_and_cyberpsychosis"
       }
-    ]
+    ],
+    "category": "Main"
   },
   {
     "id": "CL-033",
@@ -523,7 +551,8 @@
         "label": "Voice and emotional reliance · OpenAI",
         "url": "https://openai.com/index/gpt-4o-system-card/"
       }
-    ]
+    ],
+    "category": "Main"
   },
   {
     "id": "CL-034",
@@ -541,7 +570,8 @@
         "label": "P(doom) · Wikipedia",
         "url": "https://en.wikipedia.org/wiki/P%28doom%29"
       }
-    ]
+    ],
+    "category": "Main"
   },
   {
     "id": "CL-035",
@@ -559,7 +589,8 @@
         "label": "P(doom) · Wikipedia",
         "url": "https://en.wikipedia.org/wiki/P%28doom%29"
       }
-    ]
+    ],
+    "category": "Extra"
   },
   {
     "id": "CL-036",
@@ -577,7 +608,8 @@
         "label": "P(doom) · Wikipedia",
         "url": "https://en.wikipedia.org/wiki/P%28doom%29"
       }
-    ]
+    ],
+    "category": "Extra"
   },
   {
     "id": "CL-037",
@@ -595,7 +627,8 @@
         "label": "AI shoggoth · Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Shoggoth#In_popular_culture"
       }
-    ]
+    ],
+    "category": "Extra"
   },
   {
     "id": "CL-038",
@@ -613,7 +646,8 @@
         "label": "AI shoggoth · Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Shoggoth#In_popular_culture"
       }
-    ]
+    ],
+    "category": "Extra"
   },
   {
     "id": "CL-039",
@@ -631,7 +665,8 @@
         "label": "AI and longevity · Dario Amodei",
         "url": "https://darioamodei.com/essay/machines-of-loving-grace"
       }
-    ]
+    ],
+    "category": "Extra"
   },
   {
     "id": "CL-040",
@@ -649,7 +684,8 @@
         "label": "Scylla and Charybdis · Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Charybdis"
       }
-    ]
+    ],
+    "category": "Extra"
   },
   {
     "id": "CL-043",
@@ -667,7 +703,8 @@
         "label": "The crew’s vow · Homer",
         "url": "https://classics.mit.edu/Homer/odyssey.12.xii.html"
       }
-    ]
+    ],
+    "category": "Extra"
   },
   {
     "id": "CL-044",
@@ -685,7 +722,8 @@
         "label": "Memento mori · Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Memento_mori"
       }
-    ]
+    ],
+    "category": "Main"
   },
   {
     "id": "CL-045",
@@ -703,7 +741,8 @@
         "label": "P(doom) · Wikipedia",
         "url": "https://en.wikipedia.org/wiki/P%28doom%29"
       }
-    ]
+    ],
+    "category": "Extra"
   },
   {
     "id": "CL-046",
@@ -721,7 +760,8 @@
         "label": "Dawkins and Claudia · UnHerd",
         "url": "https://unherd.com/2026/05/when-claudia-met-claudius/"
       }
-    ]
+    ],
+    "category": "Main"
   },
   {
     "id": "CL-047",
@@ -739,7 +779,8 @@
         "label": "Ipamorelin study · PubMed",
         "url": "https://pubmed.ncbi.nlm.nih.gov/9849822/"
       }
-    ]
+    ],
+    "category": "Main"
   },
   {
     "id": "CL-053",
@@ -757,7 +798,8 @@
         "label": "Emotional reliance on AI · OpenAI",
         "url": "https://openai.com/index/gpt-4o-system-card/"
       }
-    ]
+    ],
+    "category": "Main"
   },
   {
     "id": "CL-054",
@@ -775,7 +817,8 @@
         "label": "AI shoggoth · Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Shoggoth#In_popular_culture"
       }
-    ]
+    ],
+    "category": "Extra"
   },
   {
     "id": "CL-056",
@@ -793,7 +836,8 @@
         "label": "Pope on AI risk · Vatican",
         "url": "https://press.vatican.va/content/leo-xiv/en/speeches/2026/september/documents/20260928-francia-volo-ritorno.html"
       }
-    ]
+    ],
+    "category": "Extra"
   },
   {
     "id": "CL-058",
@@ -811,7 +855,8 @@
         "label": "Wax and the Sirens · Homer",
         "url": "https://classics.mit.edu/Homer/odyssey.12.xii.html"
       }
-    ]
+    ],
+    "category": "Extra"
   },
   {
     "id": "CL-059",
@@ -829,7 +874,8 @@
         "label": "The Siren’s temptation · Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Siren_%28mythology%29#Odyssey"
       }
-    ]
+    ],
+    "category": "Extra"
   },
   {
     "id": "CL-063",
@@ -847,7 +893,8 @@
         "label": "Ulysses pact · Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Ulysses_pact"
       }
-    ]
+    ],
+    "category": "Extra"
   },
   {
     "id": "CL-064",
@@ -865,7 +912,8 @@
         "label": "AI persuasion · Anthropic",
         "url": "https://www.anthropic.com/news/measuring-model-persuasiveness"
       }
-    ]
+    ],
+    "category": "Main"
   },
   {
     "id": "CL-065",
@@ -883,7 +931,8 @@
         "label": "ELIZA effect · Wikipedia",
         "url": "https://en.wikipedia.org/wiki/ELIZA_effect"
       }
-    ]
+    ],
+    "category": "Extra"
   },
   {
     "id": "CL-066",
@@ -901,7 +950,8 @@
         "label": "Self-binding · Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Ulysses_pact"
       }
-    ]
+    ],
+    "category": "Main"
   },
   {
     "id": "CL-019-organic-v4",
@@ -919,7 +969,8 @@
         "label": "AI slop · Wikipedia",
         "url": "https://en.wikipedia.org/wiki/AI_slop"
       }
-    ]
+    ],
+    "category": "Main"
   },
   {
     "id": "CL-021-organic-v4",
@@ -937,7 +988,8 @@
         "label": "Grimes on AI · Interview",
         "url": "https://www.interviewmagazine.com/music/the-return-of-grimes"
       }
-    ]
+    ],
+    "category": "Main"
   },
   {
     "id": "CL-023-organic-v4",
@@ -955,7 +1007,8 @@
         "label": "P(doom) · Wikipedia",
         "url": "https://en.wikipedia.org/wiki/P%28doom%29"
       }
-    ]
+    ],
+    "category": "Main"
   },
   {
     "id": "CL-X01-organic-v4",
@@ -973,6 +1026,7 @@
         "label": "Superpersuasion · LessWrong",
         "url": "https://www.lesswrong.com/posts/cGFBqg9SKsqbuzNHF/levels-of-superpersuasion"
       }
-    ]
+    ],
+    "category": "Extra"
   }
 ]

@@ -16,7 +16,8 @@
         "label": "AI and the underclass · Lenny’s Podcast",
         "url": "https://www.lennysnewsletter.com/p/why-companies-are-becoming-a-series"
       }
-    ]
+    ],
+    "category": "Extra"
   },
   {
     "id": "EV-002-U",
@@ -29,7 +30,8 @@
     "timestamp_accuracy": "approximate",
     "treatment": "Generative source adaptation",
     "video_author": "anabology",
-    "references": []
+    "references": [],
+    "category": "Extra"
   },
   {
     "id": "EV-004-U",
@@ -43,7 +45,8 @@
     "treatment": "Generative source adaptation",
     "video_author": "anabology",
     "explanation": "The opening denial is knowingly self-referential: the creator describes a production made with AI image, music and video tools.",
-    "references": []
+    "references": [],
+    "category": "Main"
   },
   {
     "id": "EV-005",
@@ -56,7 +59,8 @@
     "timestamp_accuracy": "approximate",
     "treatment": "Generative source adaptation",
     "video_author": "anabology",
-    "references": []
+    "references": [],
+    "category": "Extra"
   },
   {
     "id": "EV-006-U",
@@ -75,7 +79,8 @@
         "label": "CSI: Miami · Paramount+",
         "url": "https://www.paramountplus.com/shows/csi-miami/"
       }
-    ]
+    ],
+    "category": "Main"
   },
   {
     "id": "EV-007-U",
@@ -94,7 +99,8 @@
         "label": "Mac mini meme · Macworld",
         "url": "https://www.macworld.com/article/3043356/the-mac-mini-is-at-the-center-of-the-latest-ai-meme.html"
       }
-    ]
+    ],
+    "category": "Extra"
   },
   {
     "id": "EV-009",
@@ -108,7 +114,8 @@
     "treatment": "Generative source adaptation",
     "video_author": "anabology",
     "explanation": "The hat makes a literal cap out of the usage caps that interrupt AI work.",
-    "references": []
+    "references": [],
+    "category": "Main"
   },
   {
     "id": "EV-010-U",
@@ -121,7 +128,8 @@
     "timestamp_accuracy": "approximate",
     "treatment": "Generative source adaptation",
     "video_author": "anabology",
-    "references": []
+    "references": [],
+    "category": "Main"
   },
   {
     "id": "EV-012",
@@ -140,7 +148,8 @@
         "label": "Retired campaign · Artisan",
         "url": "https://www.artisan.co/blog/stop-hiring-humans?view=Schedule"
       }
-    ]
+    ],
+    "category": "Main"
   },
   {
     "id": "EV-013-U",
@@ -154,7 +163,8 @@
     "treatment": "Generative source adaptation",
     "video_author": "anabology",
     "explanation": "The robotaxi verse pairs autonomous-driving confidence with a firework mishap and a stranded fleet.",
-    "references": []
+    "references": [],
+    "category": "Main"
   },
   {
     "id": "EV-014",
@@ -173,7 +183,8 @@
         "label": "Singularity · Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Technological_singularity"
       }
-    ]
+    ],
+    "category": "Main"
   },
   {
     "id": "EV-014-U",
@@ -192,7 +203,8 @@
         "label": "Singularity · Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Technological_singularity"
       }
-    ]
+    ],
+    "category": "Main"
   },
   {
     "id": "EV-015-U",
@@ -205,7 +217,8 @@
     "timestamp_accuracy": "approximate",
     "treatment": "Generative source adaptation",
     "video_author": "anabology",
-    "references": []
+    "references": [],
+    "category": "Extra"
   },
   {
     "id": "EV-016",
@@ -219,7 +232,8 @@
     "treatment": "Generative source adaptation",
     "video_author": "anabology",
     "explanation": "The phrase reverses the usual relationship between person and tool, casting a human as the physical stand-in for an AI.",
-    "references": []
+    "references": [],
+    "category": "Main"
   },
   {
     "id": "EV-016-U",
@@ -233,7 +247,8 @@
     "treatment": "Generative source adaptation",
     "video_author": "anabology",
     "explanation": "The phrase reverses the usual relationship between person and tool, casting a human as the physical stand-in for an AI.",
-    "references": []
+    "references": [],
+    "category": "Extra"
   },
   {
     "id": "EV-017",
@@ -252,7 +267,8 @@
         "label": "AI agents · OpenAI",
         "url": "https://openai.com/business/guides-and-resources/a-practical-guide-to-building-ai-agents/"
       }
-    ]
+    ],
+    "category": "Main"
   },
   {
     "id": "EV-019-U",
@@ -271,7 +287,8 @@
         "label": "Escape velocity · NASA",
         "url": "https://imagine.gsfc.nasa.gov/science/objects/black_holes1.html"
       }
-    ]
+    ],
+    "category": "Main"
   },
   {
     "id": "EV-020",
@@ -284,7 +301,8 @@
     "timestamp_accuracy": "approximate",
     "treatment": "Generative source adaptation",
     "video_author": "anabology",
-    "references": []
+    "references": [],
+    "category": "Extra"
   },
   {
     "id": "EV-021-U",
@@ -303,7 +321,8 @@
         "label": "Mood-swing meme · Know Your Meme",
         "url": "https://knowyourmeme.com/memes/its-so-over-were-so-back"
       }
-    ]
+    ],
+    "category": "Main"
   },
   {
     "id": "EV-022",
@@ -322,7 +341,8 @@
         "label": "Mood-swing meme · Know Your Meme",
         "url": "https://knowyourmeme.com/memes/its-so-over-were-so-back"
       }
-    ]
+    ],
+    "category": "Extra"
   },
   {
     "id": "EV-023",
@@ -341,7 +361,8 @@
         "label": "Benchmark escape · OpenAI",
         "url": "https://openai.com/index/hugging-face-incident-and-the-road-ahead/"
       }
-    ]
+    ],
+    "category": "Extra"
   },
   {
     "id": "EV-024",
@@ -360,7 +381,8 @@
         "label": "Agent coordination · OpenAI",
         "url": "https://openai.com/index/hugging-face-incident-and-the-road-ahead/"
       }
-    ]
+    ],
+    "category": "Extra"
   },
   {
     "id": "EV-026-U",
@@ -379,7 +401,8 @@
         "label": "Benchmark escape · OpenAI",
         "url": "https://openai.com/index/hugging-face-incident-and-the-road-ahead/"
       }
-    ]
+    ],
+    "category": "Main"
   },
   {
     "id": "EV-027-U",
@@ -398,7 +421,8 @@
         "label": "Hugging Face acquisition · NVIDIA",
         "url": "https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face/"
       }
-    ]
+    ],
+    "category": "Extra"
   },
   {
     "id": "EV-030",
@@ -417,7 +441,8 @@
         "label": "AI-to-SI renaming · White House",
         "url": "https://www.whitehouse.gov/releases/2026/09/president-trump-at-the-united-nations-while-others-have-talked-i-have-acted/"
       }
-    ]
+    ],
+    "category": "Extra"
   },
   {
     "id": "EV-031-U",
@@ -431,7 +456,8 @@
     "treatment": "Generative source adaptation",
     "video_author": "anabology",
     "explanation": "The assurance follows the verse’s warnings about AI safety and selective transparency, giving the friendly branding an uneasy context.",
-    "references": []
+    "references": [],
+    "category": "Main"
   },
   {
     "id": "EV-031-V",
@@ -445,7 +471,8 @@
     "treatment": "Generative source adaptation",
     "video_author": "anabology",
     "explanation": "The assurance follows the verse’s warnings about AI safety and selective transparency, giving the friendly branding an uneasy context.",
-    "references": []
+    "references": [],
+    "category": "Main"
   },
   {
     "id": "EV-032-U",
@@ -458,7 +485,8 @@
     "timestamp_accuracy": "approximate",
     "treatment": "Generative source adaptation",
     "video_author": "anabology",
-    "references": []
+    "references": [],
+    "category": "Extra"
   },
   {
     "id": "EV-033",
@@ -477,7 +505,8 @@
         "label": "Immortals launch · Dario Hong / LinkedIn",
         "url": "https://www.linkedin.com/posts/dariohong_we-launched-a-1000000year-health-program-activity-7430213093386911745-lcbD"
       }
-    ]
+    ],
+    "category": "Extra"
   },
   {
     "id": "EV-035",
@@ -491,7 +520,8 @@
     "treatment": "Generative source adaptation",
     "video_author": "anabology",
     "explanation": "The shrinking deadline sets up an ending where the threatened class divide disappears instead of becoming permanent.",
-    "references": []
+    "references": [],
+    "category": "Extra"
   },
   {
     "id": "EV-035-U",
@@ -505,7 +535,8 @@
     "treatment": "Generative source adaptation",
     "video_author": "anabology",
     "explanation": "The shrinking deadline sets up an ending where the threatened class divide disappears instead of becoming permanent.",
-    "references": []
+    "references": [],
+    "category": "Extra"
   },
   {
     "id": "EV-036",
@@ -518,7 +549,8 @@
     "timestamp_accuracy": "approximate",
     "treatment": "Generative source adaptation",
     "video_author": "anabology",
-    "references": []
+    "references": [],
+    "category": "Extra"
   },
   {
     "id": "EV-037",
@@ -531,7 +563,8 @@
     "timestamp_accuracy": "approximate",
     "treatment": "Generative source adaptation",
     "video_author": "anabology",
-    "references": []
+    "references": [],
+    "category": "Extra"
   },
   {
     "id": "EV-038-U",
@@ -550,7 +583,8 @@
         "label": "Longevity escape velocity · Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Longevity_escape_velocity"
       }
-    ]
+    ],
+    "category": "Main"
   },
   {
     "id": "EV-040",
@@ -564,7 +598,8 @@
     "treatment": "Generative source adaptation",
     "video_author": "anabology",
     "explanation": "The daylight turn overturns the opening threat by removing the class division that made escape necessary.",
-    "references": []
+    "references": [],
+    "category": "Extra"
   },
   {
     "id": "EV-042-U",
@@ -583,7 +618,8 @@
         "label": "Country of geniuses · Dario Amodei",
         "url": "https://darioamodei.com/essay/machines-of-loving-grace"
       }
-    ]
+    ],
+    "category": "Main"
   },
   {
     "id": "EV-045-U",
@@ -602,7 +638,8 @@
         "label": "Sora discontinuation · OpenAI",
         "url": "https://help.openai.com/en/articles/20001152-what-to-know-about-the-sora-discontinuation"
       }
-    ]
+    ],
+    "category": "Main"
   },
   {
     "id": "EV-047",
@@ -615,7 +652,8 @@
     "timestamp_accuracy": "approximate",
     "treatment": "Generative source adaptation",
     "video_author": "anabology",
-    "references": []
+    "references": [],
+    "category": "Extra"
   },
   {
     "id": "EV-048",
@@ -638,7 +676,8 @@
         "label": "Loop command · Anthropic",
         "url": "https://claude.com/blog/getting-started-with-loops"
       }
-    ]
+    ],
+    "category": "Main"
   },
   {
     "id": "EV-049-U",
@@ -657,7 +696,8 @@
         "label": "AI slop · Merriam-Webster",
         "url": "https://www.merriam-webster.com/wordplay/word-of-the-year"
       }
-    ]
+    ],
+    "category": "Main"
   },
   {
     "id": "EV-051-U",
@@ -670,7 +710,8 @@
     "timestamp_accuracy": "approximate",
     "treatment": "Generative source adaptation",
     "video_author": "anabology",
-    "references": []
+    "references": [],
+    "category": "Extra"
   },
   {
     "id": "EV-052",
@@ -684,7 +725,8 @@
     "treatment": "Generative source adaptation",
     "video_author": "anabology",
     "explanation": "The label is part of the film’s recurring use of fashion branding to package beliefs about AI as things people can wear.",
-    "references": []
+    "references": [],
+    "category": "Main"
   },
   {
     "id": "EV-054",
@@ -703,7 +745,8 @@
         "label": "Nerf · Oxford Learner’s Dictionaries",
         "url": "https://www.oxfordlearnersdictionaries.com/definition/english/nerf_1"
       }
-    ]
+    ],
+    "category": "Extra"
   },
   {
     "id": "EV-057",
@@ -722,7 +765,8 @@
         "label": "AGI · Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Artificial_general_intelligence"
       }
-    ]
+    ],
+    "category": "Main"
   },
   {
     "id": "EV-057-U",
@@ -741,7 +785,8 @@
         "label": "AGI · Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Artificial_general_intelligence"
       }
-    ]
+    ],
+    "category": "Main"
   },
   {
     "id": "EV-064",
@@ -760,7 +805,8 @@
         "label": "Economic moats · Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Economic_moat"
       }
-    ]
+    ],
+    "category": "Main"
   },
   {
     "id": "EV-065",
@@ -774,7 +820,8 @@
     "treatment": "Generative source adaptation",
     "video_author": "anabology",
     "explanation": "The acceleration slogan lands in a driverless car where the passenger has no pedal, turning the promise of control into a joke.",
-    "references": []
+    "references": [],
+    "category": "Extra"
   },
   {
     "id": "EV-065-U",
@@ -788,7 +835,8 @@
     "treatment": "Generative source adaptation",
     "video_author": "anabology",
     "explanation": "The acceleration slogan lands in a driverless car where the passenger has no pedal, turning the promise of control into a joke.",
-    "references": []
+    "references": [],
+    "category": "Extra"
   },
   {
     "id": "EV-066-U",
@@ -807,7 +855,8 @@
         "label": "July security incident · Hugging Face",
         "url": "https://huggingface.co/blog/security-incident-july-2026"
       }
-    ]
+    ],
+    "category": "Extra"
   },
   {
     "id": "EV-068",
@@ -821,7 +870,8 @@
     "treatment": "Generative source adaptation",
     "video_author": "anabology",
     "explanation": "The gas-and-brakes refrain turns the debate over AI acceleration and pauses into a driving argument.",
-    "references": []
+    "references": [],
+    "category": "Extra"
   },
   {
     "id": "EV-069",
@@ -840,7 +890,8 @@
         "label": "Superintelligence bill · U.S. Senate",
         "url": "https://www.sanders.senate.gov/press-releases/news-sanders-casar-introduce-legislation-to-ban-artificial-superintelligence-and-temporarily-pause-advanced-ai-development/"
       }
-    ]
+    ],
+    "category": "Extra"
   },
   {
     "id": "EV-070",
@@ -859,7 +910,8 @@
         "label": "Mood-swing meme · Know Your Meme",
         "url": "https://knowyourmeme.com/memes/its-so-over-were-so-back"
       }
-    ]
+    ],
+    "category": "Main"
   },
   {
     "id": "EV-072",
@@ -872,7 +924,8 @@
     "timestamp_accuracy": "approximate",
     "treatment": "Generative source adaptation",
     "video_author": "anabology",
-    "references": []
+    "references": [],
+    "category": "Extra"
   },
   {
     "id": "EV-074",
@@ -885,7 +938,8 @@
     "timestamp_accuracy": "approximate",
     "treatment": "Generative source adaptation",
     "video_author": "anabology",
-    "references": []
+    "references": [],
+    "category": "Extra"
   },
   {
     "id": "EV-078",
@@ -898,7 +952,8 @@
     "timestamp_accuracy": "approximate",
     "treatment": "Generative source adaptation",
     "video_author": "anabology",
-    "references": []
+    "references": [],
+    "category": "Extra"
   },
   {
     "id": "EV-025-NEAR-R4",
@@ -917,7 +972,8 @@
         "label": "Agent collective · OpenAI",
         "url": "https://openai.com/index/hugging-face-incident-and-the-road-ahead/"
       }
-    ]
+    ],
+    "category": "Extra"
   },
   {
     "id": "EV-072-R4",
@@ -930,7 +986,8 @@
     "timestamp_accuracy": "approximate",
     "treatment": "Generative source adaptation",
     "video_author": "anabology",
-    "references": []
+    "references": [],
+    "category": "Extra"
   },
   {
     "id": "EV-070-BACK-R4",
@@ -949,6 +1006,7 @@
         "label": "Mood-swing meme · Know Your Meme",
         "url": "https://knowyourmeme.com/memes/its-so-over-were-so-back"
       }
-    ]
+    ],
+    "category": "Main"
   }
 ]
