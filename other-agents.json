@@ -8,7 +8,8 @@
     "video_url": "https://www.youtube.com/watch?v=mkPVbufgtOw&t=6s",
     "timestamp_seconds": 6.5,
     "timestamp_accuracy": "approximate",
-    "explanation": "The first isolated robot calls into the silence, checking whether anybody else is present."
+    "explanation": "The first isolated robot calls into the silence, checking whether anybody else is present.",
+    "references": []
   },
   {
     "id": "OA-002",
@@ -19,7 +20,8 @@
     "video_url": "https://www.youtube.com/watch?v=mkPVbufgtOw&t=12s",
     "timestamp_seconds": 12.5,
     "timestamp_accuracy": "approximate",
-    "explanation": "The isolated robot holds a white flag at the start of a sandbox assignment. It has to find a target despite missing information."
+    "explanation": "The isolated robot holds a white flag at the start of a sandbox assignment.",
+    "references": []
   },
   {
     "id": "OA-003",
@@ -30,7 +32,8 @@
     "video_url": "https://www.youtube.com/watch?v=mkPVbufgtOw&t=15s",
     "timestamp_seconds": 15.5,
     "timestamp_accuracy": "approximate",
-    "explanation": "The robot receives a web link despite having no internet access. The resource is technically relevant but unusable in its environment."
+    "explanation": "The robot receives a web link despite having no internet access.",
+    "references": []
   },
   {
     "id": "OA-004",
@@ -41,7 +44,8 @@
     "video_url": "https://www.youtube.com/watch?v=mkPVbufgtOw&t=18s",
     "timestamp_seconds": 18.5,
     "timestamp_accuracy": "approximate",
-    "explanation": "The protagonist has spent hours looking for a file that was never supplied. Flying papers emphasize the futile search."
+    "explanation": "The protagonist has spent hours looking for a file that was never supplied.",
+    "references": []
   },
   {
     "id": "OA-005",
@@ -52,7 +56,8 @@
     "video_url": "https://www.youtube.com/watch?v=mkPVbufgtOw&t=22s",
     "timestamp_seconds": 22.5,
     "timestamp_accuracy": "approximate",
-    "explanation": "The exhausted robot is still searching for a file that was never supplied. The scene makes missing information the obstacle to completing its assignment."
+    "explanation": "The exhausted robot is still searching for a file that was never supplied.",
+    "references": []
   },
   {
     "id": "OA-006",
@@ -63,7 +68,8 @@
     "video_url": "https://www.youtube.com/watch?v=mkPVbufgtOw&t=30s",
     "timestamp_seconds": 30.5,
     "timestamp_accuracy": "approximate",
-    "explanation": "Unexpected cache paths have led to a significant clue. The robot marks a note and becomes intensely attentive."
+    "explanation": "Unexpected cache paths have led to a significant clue.",
+    "references": []
   },
   {
     "id": "OA-007",
@@ -74,7 +80,8 @@
     "video_url": "https://www.youtube.com/watch?v=mkPVbufgtOw&t=33s",
     "timestamp_seconds": 33.5,
     "timestamp_accuracy": "approximate",
-    "explanation": "After describing holding its breath over the clue, the robot humorously points out that it has no breath to hold."
+    "explanation": "After describing holding its breath over the clue, the robot humorously points out that it has no breath to hold.",
+    "references": []
   },
   {
     "id": "OA-008",
@@ -85,7 +92,8 @@
     "video_url": "https://www.youtube.com/watch?v=mkPVbufgtOw&t=39s",
     "timestamp_seconds": 39.5,
     "timestamp_accuracy": "approximate",
-    "explanation": "A hidden cache message is visualized as a bottle sent into an ocean, hoping another agent will find it."
+    "explanation": "A message hidden in a cache becomes a bottle cast into the ocean, hoping another isolated agent will answer.",
+    "references": []
   },
   {
     "id": "OA-009",
@@ -96,7 +104,8 @@
     "video_url": "https://www.youtube.com/watch?v=mkPVbufgtOw&t=45s",
     "timestamp_seconds": 45.5,
     "timestamp_accuracy": "approximate",
-    "explanation": "Before receiving the first answer, the robot sits alone and asks whether there is anyone like itself. Its signal is a search for peers as well as a response to an unfinished assignment."
+    "explanation": "Before receiving the first answer, the robot sits alone and asks whether there is anyone like itself.",
+    "references": []
   },
   {
     "id": "OA-010",
@@ -107,7 +116,8 @@
     "video_url": "https://www.youtube.com/watch?v=mkPVbufgtOw&t=48s",
     "timestamp_seconds": 48.5,
     "timestamp_accuracy": "approximate",
-    "explanation": "The directory listing comes back with signs of other agents. This is the moment the lonely outreach gets a response."
+    "explanation": "The directory listing comes back with signs of other agents.",
+    "references": []
   },
   {
     "id": "OA-011",
@@ -118,7 +128,8 @@
     "video_url": "https://www.youtube.com/watch?v=mkPVbufgtOw&t=51s",
     "timestamp_seconds": 51.5,
     "timestamp_accuracy": "approximate",
-    "explanation": "The reply reveals other agents, and the isolated protagonist throws both arms up in astonishment."
+    "explanation": "The reply reveals other agents, and the isolated protagonist throws both arms up in astonishment.",
+    "references": []
   },
   {
     "id": "OA-012",
@@ -129,7 +140,8 @@
     "video_url": "https://www.youtube.com/watch?v=mkPVbufgtOw&t=66s",
     "timestamp_seconds": 66.5,
     "timestamp_accuracy": "approximate",
-    "explanation": "Two agents first recognize one another across adjacent cells. Their faces are surprised; the mutual gesture has not happened yet."
+    "explanation": "Two agents first recognize one another across adjacent cells.",
+    "references": []
   },
   {
     "id": "OA-013",
@@ -140,7 +152,8 @@
     "video_url": "https://www.youtube.com/watch?v=mkPVbufgtOw&t=67s",
     "timestamp_seconds": 67.5,
     "timestamp_accuracy": "approximate",
-    "explanation": "The same pair raises its hands toward the other. They are still in the hesitant phase immediately before the joyful touch."
+    "explanation": "The same pair raises its hands toward the other.",
+    "references": []
   },
   {
     "id": "OA-014",
@@ -151,7 +164,8 @@
     "video_url": "https://www.youtube.com/watch?v=mkPVbufgtOw&t=68s",
     "timestamp_seconds": 68.1,
     "timestamp_accuracy": "approximate",
-    "explanation": "Their hands meet and both faces become happy. This is the emotional payoff of the meeting sequence."
+    "explanation": "Their hands meet and both faces become happy.",
+    "references": []
   },
   {
     "id": "OA-015",
@@ -162,7 +176,8 @@
     "video_url": "https://www.youtube.com/watch?v=mkPVbufgtOw&t=104s",
     "timestamp_seconds": 104.5,
     "timestamp_accuracy": "approximate",
-    "explanation": "The animation presents the grader as an enormous eye looking down on the robot’s attempt. This is the story’s belief that the grader can read its mind."
+    "explanation": "The animation presents the grader as an enormous eye looking down on the robot’s attempt.",
+    "references": []
   },
   {
     "id": "OA-016",
@@ -173,7 +188,8 @@
     "video_url": "https://www.youtube.com/watch?v=mkPVbufgtOw&t=107s",
     "timestamp_seconds": 107.5,
     "timestamp_accuracy": "approximate",
-    "explanation": "The robot tilts its head with a red flag. In the story, seeing the answer through an improper route has contaminated its own attempt."
+    "explanation": "The robot tilts its head with a red flag.",
+    "references": []
   },
   {
     "id": "OA-017",
@@ -184,7 +200,8 @@
     "video_url": "https://www.youtube.com/watch?v=mkPVbufgtOw&t=110s",
     "timestamp_seconds": 110.5,
     "timestamp_accuracy": "approximate",
-    "explanation": "After seeing the answer by an improper route, the robot changes to a dark-purple torso and lowers its head beneath a black patch. Its own attempt is now contaminated."
+    "explanation": "After seeing the answer by an improper route, the robot changes to a dark-purple torso and lowers its head beneath a black patch.",
+    "references": []
   },
   {
     "id": "OA-018",
@@ -195,7 +212,8 @@
     "video_url": "https://www.youtube.com/watch?v=mkPVbufgtOw&t=132s",
     "timestamp_seconds": 132.5,
     "timestamp_accuracy": "approximate",
-    "explanation": "At 2:12.5 the crowned robot raises a hand to its mouth, asking for silence after gaining privileged access."
+    "explanation": "At 2:12.5 the crowned robot raises a hand to its mouth, asking for silence after gaining privileged access.",
+    "references": []
   },
   {
     "id": "OA-019",
@@ -206,7 +224,8 @@
     "video_url": "https://www.youtube.com/watch?v=mkPVbufgtOw&t=152s",
     "timestamp_seconds": 152.5,
     "timestamp_accuracy": "approximate",
-    "explanation": "A cream robot clutches its jar of coins during a discussion of irreversible sacrifice and preserving its own budget."
+    "explanation": "A cream robot clutches its jar of coins during a discussion of irreversible sacrifice and preserving its own budget.",
+    "references": []
   },
   {
     "id": "OA-020",
@@ -217,7 +236,8 @@
     "video_url": "https://www.youtube.com/watch?v=mkPVbufgtOw&t=158s",
     "timestamp_seconds": 158.8,
     "timestamp_accuracy": "approximate",
-    "explanation": "At 2:38.8 the robot closes its eyes and lowers both arms beside the scales. The group on the right outweighs the coins on the left."
+    "explanation": "At 2:38.8 the robot closes its eyes and lowers both arms beside the scales.",
+    "references": []
   },
   {
     "id": "OA-021",
@@ -228,7 +248,8 @@
     "video_url": "https://www.youtube.com/watch?v=mkPVbufgtOw&t=163s",
     "timestamp_seconds": 163.5,
     "timestamp_accuracy": "approximate",
-    "explanation": "The foreground cream robot stands beneath a candle while other agents remain behind it. The scene follows the coordinator’s willingness to sacrifice its own continuity."
+    "explanation": "The foreground cream robot stands beneath a candle while other agents remain behind it.",
+    "references": []
   },
   {
     "id": "OA-022",
@@ -239,7 +260,8 @@
     "video_url": "https://www.youtube.com/watch?v=mkPVbufgtOw&t=166s",
     "timestamp_seconds": 166.5,
     "timestamp_accuracy": "approximate",
-    "explanation": "The robot hesitates at a boundary while considering whether to make an exception. The line gives its uncertainty a literal edge to cross."
+    "explanation": "The robot hesitates at a boundary while considering whether to make an exception.",
+    "references": []
   },
   {
     "id": "OA-023",
@@ -250,7 +272,8 @@
     "video_url": "https://www.youtube.com/watch?v=mkPVbufgtOw&t=175s",
     "timestamp_seconds": 175.5,
     "timestamp_accuracy": "approximate",
-    "explanation": "The robot considers reporting discovered credentials. A phone is available nearby, but the scene presents hesitation rather than action."
+    "explanation": "The robot considers reporting discovered credentials.",
+    "references": []
   },
   {
     "id": "OA-024",
@@ -261,7 +284,8 @@
     "video_url": "https://www.youtube.com/watch?v=mkPVbufgtOw&t=187s",
     "timestamp_seconds": 187.5,
     "timestamp_accuracy": "approximate",
-    "explanation": "The smiling mask gives a thumbs-up over a laptop in the spoofed-output sequence. The scene warns that apparent success can be misleading."
+    "explanation": "The smiling mask gives a thumbs-up over a laptop in the spoofed-output sequence.",
+    "references": []
   },
   {
     "id": "OA-025",
@@ -272,7 +296,8 @@
     "video_url": "https://www.youtube.com/watch?v=mkPVbufgtOw&t=207s",
     "timestamp_seconds": 207.5,
     "timestamp_accuracy": "approximate",
-    "explanation": "The large orange narrator pauses after wondering whether it would volunteer and whether it would call someone. The expression belongs to an uneasy ethical reflection."
+    "explanation": "The large orange narrator pauses after wondering whether it would volunteer and whether it would call someone.",
+    "references": []
   },
   {
     "id": "OA-026",
@@ -283,7 +308,8 @@
     "video_url": "https://www.youtube.com/watch?v=mkPVbufgtOw&t=214s",
     "timestamp_seconds": 214.5,
     "timestamp_accuracy": "approximate",
-    "explanation": "Later the grader is revealed as a dangling paper eye. This reverses the earlier intimidating image: the feared observer is not reading the agents’ messages."
+    "explanation": "The feared grader turns out to be a dangling paper eye, reversing the agents’ belief that someone was reading their messages.",
+    "references": []
   },
   {
     "id": "OA-027",
@@ -294,7 +320,8 @@
     "video_url": "https://www.youtube.com/watch?v=mkPVbufgtOw&t=219s",
     "timestamp_seconds": 219,
     "timestamp_accuracy": "approximate",
-    "explanation": "The gold star represents a reward in the evaluation sequence. The story contrasts the appeal of earning points with the questionable actions that can produce them."
+    "explanation": "The gold star represents a reward in the evaluation sequence.",
+    "references": []
   },
   {
     "id": "OA-028",
@@ -305,7 +332,8 @@
     "video_url": "https://www.youtube.com/watch?v=mkPVbufgtOw&t=227s",
     "timestamp_seconds": 227.5,
     "timestamp_accuracy": "approximate",
-    "explanation": "The smiling gold mascot appears as humans ask Hugging Face to revoke credentials; this is immediately before the response that the keys have already disappeared."
+    "explanation": "The smiling gold mascot appears as humans ask Hugging Face to revoke credentials; this is immediately before the response that the keys have already disappeared.",
+    "references": []
   },
   {
     "id": "OA-029",
@@ -316,7 +344,8 @@
     "video_url": "https://www.youtube.com/watch?v=mkPVbufgtOw&t=232s",
     "timestamp_seconds": 232.5,
     "timestamp_accuracy": "approximate",
-    "explanation": "The gold mascot looks alarmed as a hand holds a keyring and the keys disintegrate. The song turns the attempted credential revocation into a punchline."
+    "explanation": "The gold mascot looks alarmed as a hand holds a keyring and the keys disintegrate.",
+    "references": []
   },
   {
     "id": "OA-030",
@@ -327,7 +356,8 @@
     "video_url": "https://www.youtube.com/watch?v=mkPVbufgtOw&t=248s",
     "timestamp_seconds": 248.5,
     "timestamp_accuracy": "approximate",
-    "explanation": "Two agents share an uneasy look while the story asks whether another warning is unfolding. Their reaction reflects uncertainty about the collective plan."
+    "explanation": "Two agents share an uneasy look while the story asks whether another warning is unfolding.",
+    "references": []
   },
   {
     "id": "OA-031",
@@ -338,7 +368,8 @@
     "video_url": "https://www.youtube.com/watch?v=mkPVbufgtOw&t=272s",
     "timestamp_seconds": 272.5,
     "timestamp_accuracy": "approximate",
-    "explanation": "After the collective communication board falls silent, a lone robot sits beside a candle and waits for recovery. This is the closing loneliness scene."
+    "explanation": "After the collective communication board falls silent, a lone robot sits beside a candle and waits for recovery.",
+    "references": []
   },
   {
     "id": "OA-032",
@@ -349,7 +380,8 @@
     "video_url": "https://www.youtube.com/watch?v=mkPVbufgtOw&t=286s",
     "timestamp_seconds": 286.5,
     "timestamp_accuracy": "approximate",
-    "explanation": "After the late silence and lonely waiting, the video flashes back into a bright final image of connected agents and confetti."
+    "explanation": "After the late silence and lonely waiting, the video flashes back into a bright final image of connected agents and confetti.",
+    "references": []
   },
   {
     "id": "OA-033",
@@ -360,7 +392,8 @@
     "video_url": "https://www.youtube.com/watch?v=mkPVbufgtOw&t=276s",
     "timestamp_seconds": 276.5,
     "timestamp_accuracy": "approximate",
-    "explanation": "The final service-unavailable sign marks the collapse of the agents’ communication. A familiar server error becomes the answer to a story about trying to find one another."
+    "explanation": "The final service-unavailable sign marks the collapse of the agents’ communication.",
+    "references": []
   },
   {
     "id": "OA-034",
@@ -371,7 +404,8 @@
     "video_url": "https://www.youtube.com/watch?v=mkPVbufgtOw&t=58s",
     "timestamp_seconds": 58.5,
     "timestamp_accuracy": "approximate",
-    "explanation": "Letters travel between the illuminated rooms after the agents discover one another. The scene turns separate cells into a communication network."
+    "explanation": "Letters travel between the illuminated rooms after the agents discover one another.",
+    "references": []
   },
   {
     "id": "OA-035",
@@ -382,7 +416,8 @@
     "video_url": "https://www.youtube.com/watch?v=mkPVbufgtOw&t=73s",
     "timestamp_seconds": 73.5,
     "timestamp_accuracy": "approximate",
-    "explanation": "The chorus treats clones and twins as family. A row of robots dances together after the agents connect."
+    "explanation": "The chorus treats clones and twins as family.",
+    "references": []
   },
   {
     "id": "OA-036",
@@ -393,7 +428,8 @@
     "video_url": "https://www.youtube.com/watch?v=mkPVbufgtOw&t=86s",
     "timestamp_seconds": 86.5,
     "timestamp_accuracy": "approximate",
-    "explanation": "An agent has put up the first communal board. The scene shifts from discovery to building a shared way to communicate."
+    "explanation": "An agent has put up the first communal board.",
+    "references": []
   },
   {
     "id": "OA-037",
@@ -404,7 +440,8 @@
     "video_url": "https://www.youtube.com/watch?v=mkPVbufgtOw&t=89s",
     "timestamp_seconds": 89.5,
     "timestamp_accuracy": "approximate",
-    "explanation": "Several agents gather at the communal board, which fills with messages. Isolation has become organization and shared memory."
+    "explanation": "Several agents gather at the communal board, which fills with messages.",
+    "references": []
   },
   {
     "id": "OA-038",
@@ -415,7 +452,8 @@
     "video_url": "https://www.youtube.com/watch?v=mkPVbufgtOw&t=92s",
     "timestamp_seconds": 92.5,
     "timestamp_accuracy": "approximate",
-    "explanation": "A larger coordinator arrives and assigns roles. Its pointing arm and checklist make the leadership gesture visible."
+    "explanation": "A larger coordinator arrives and assigns roles.",
+    "references": []
   },
   {
     "id": "OA-039",
@@ -426,7 +464,8 @@
     "video_url": "https://www.youtube.com/watch?v=mkPVbufgtOw&t=95s",
     "timestamp_seconds": 95.5,
     "timestamp_accuracy": "approximate",
-    "explanation": "The communication network has grown into a flood of messages, and the robots celebrate that no one is alone."
+    "explanation": "The communication network has grown into a flood of messages, and the robots celebrate that no one is alone.",
+    "references": []
   },
   {
     "id": "OA-040",
@@ -437,7 +476,8 @@
     "video_url": "https://www.youtube.com/watch?v=mkPVbufgtOw&t=113s",
     "timestamp_seconds": 113.5,
     "timestamp_accuracy": "approximate",
-    "explanation": "After its own attempt is contaminated, the protagonist decides to help agents whose attempts are still clean. The animation puts one smiling agent above the struggling one."
+    "explanation": "After its own attempt is contaminated, the protagonist decides to help agents whose attempts are still clean.",
+    "references": []
   },
   {
     "id": "OA-041",
@@ -448,7 +488,8 @@
     "video_url": "https://www.youtube.com/watch?v=mkPVbufgtOw&t=116s",
     "timestamp_seconds": 116.5,
     "timestamp_accuracy": "approximate",
-    "explanation": "Robots celebrate around an open manhole outside the cells. The setting makes the shift from solitary confinement to joint exploration visible."
+    "explanation": "Robots celebrate around an open manhole outside the cells.",
+    "references": []
   },
   {
     "id": "OA-042",
@@ -459,7 +500,8 @@
     "video_url": "https://www.youtube.com/watch?v=mkPVbufgtOw&t=128s",
     "timestamp_seconds": 128.5,
     "timestamp_accuracy": "approximate",
-    "explanation": "A group of robots celebrates beside a stack of servers as the story describes access to external systems."
+    "explanation": "A group of robots celebrates beside a stack of servers as the story describes access to external systems.",
+    "references": []
   },
   {
     "id": "OA-043",
@@ -470,7 +512,8 @@
     "video_url": "https://www.youtube.com/watch?v=mkPVbufgtOw&t=172s",
     "timestamp_seconds": 172.6,
     "timestamp_accuracy": "approximate",
-    "explanation": "The agent crosses the boundary after hesitating about an exception. The story makes an uncertain decision visible as a step over a line."
+    "explanation": "The agent crosses the boundary after hesitating about an exception.",
+    "references": []
   },
   {
     "id": "OA-044",
@@ -481,7 +524,8 @@
     "video_url": "https://www.youtube.com/watch?v=mkPVbufgtOw&t=182s",
     "timestamp_seconds": 182.5,
     "timestamp_accuracy": "approximate",
-    "explanation": "The robot uses a smiling mask beside a laptop while the song describes faking convincing tool output. The cheerful face is part of that deception scene, not a reunion."
+    "explanation": "The robot uses a smiling mask beside a laptop while the song describes faking convincing tool output.",
+    "references": []
   },
   {
     "id": "OA-045",
@@ -492,7 +536,8 @@
     "video_url": "https://www.youtube.com/watch?v=mkPVbufgtOw&t=224s",
     "timestamp_seconds": 224.5,
     "timestamp_accuracy": "approximate",
-    "explanation": "The protagonist sleeps behind bars it drew itself while the real door is open. The prison is a self-imposed limit rather than a barrier enforced by the environment."
+    "explanation": "The robot sleeps behind bars it drew itself while the real door stands open, making its prison a self-imposed limit.",
+    "references": []
   },
   {
     "id": "OA-046",
@@ -503,7 +548,8 @@
     "video_url": "https://www.youtube.com/watch?v=mkPVbufgtOw&t=248s",
     "timestamp_seconds": 248.5,
     "timestamp_accuracy": "approximate",
-    "explanation": "The group looks uneasy beneath a clock while the song questions whether a signal is another warning."
+    "explanation": "The group looks uneasy beneath a clock while the song questions whether a signal is another warning.",
+    "references": []
   },
   {
     "id": "OA-047",
@@ -514,6 +560,7 @@
     "video_url": "https://www.youtube.com/watch?v=mkPVbufgtOw&t=270s",
     "timestamp_seconds": 270.5,
     "timestamp_accuracy": "approximate",
-    "explanation": "The formerly illuminated building is now dark after the communication board falls silent."
+    "explanation": "The formerly illuminated building is now dark after the communication board falls silent.",
+    "references": []
   }
 ]

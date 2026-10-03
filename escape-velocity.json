@@ -130,7 +130,13 @@
     "timestamp_accuracy": "approximate",
     "treatment": "Generative source adaptation",
     "video_author": "anabology",
-    "explanation": "The [singularity](https://en.wikipedia.org/wiki/Technological_singularity) comes up as podcast small talk: a future beyond prediction, mentioned almost in passing. It has already entered the vocabulary of an ordinary day, whether or not anyone is ready for it."
+    "explanation": "The line borrows the singularity’s promise of a future beyond prediction, then treats it as ordinary podcast small talk.",
+    "references": [
+      {
+        "label": "Singularity · Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Technological_singularity"
+      }
+    ]
   },
   {
     "id": "EV-014-U",
@@ -143,7 +149,13 @@
     "timestamp_accuracy": "approximate",
     "treatment": "Generative source adaptation",
     "video_author": "anabology",
-    "explanation": "The [singularity](https://en.wikipedia.org/wiki/Technological_singularity) comes up as podcast small talk: a future beyond prediction, mentioned almost in passing. It has already entered the vocabulary of an ordinary day, whether or not anyone is ready for it."
+    "explanation": "The line borrows the singularity’s promise of a future beyond prediction, then treats it as ordinary podcast small talk.",
+    "references": [
+      {
+        "label": "Singularity · Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Technological_singularity"
+      }
+    ]
   },
   {
     "id": "EV-015-U",
@@ -192,7 +204,13 @@
     "timestamp_accuracy": "approximate",
     "treatment": "Generative source adaptation",
     "video_author": "anabology",
-    "explanation": "A little piece of [agent jargon](https://openai.com/business/guides-and-resources/a-practical-guide-to-building-ai-agents/) escapes the terminal and becomes a compliment. It sits happily in the song’s blur between people with initiative and software that no longer waits to be told every move."
+    "explanation": "A word for software that acts with some independence becomes a compliment for human initiative.",
+    "references": [
+      {
+        "label": "AI agents · OpenAI",
+        "url": "https://openai.com/business/guides-and-resources/a-practical-guide-to-building-ai-agents/"
+      }
+    ]
   },
   {
     "id": "EV-019-U",
@@ -409,7 +427,13 @@
     "timestamp_accuracy": "approximate",
     "treatment": "Generative source adaptation",
     "video_author": "anabology",
-    "explanation": "Another kind of escape opens up here: [staying ahead of aging](https://en.wikipedia.org/wiki/Longevity_escape_velocity) long enough for the next medical advance to buy more time. The countdown that first threatened to leave people behind begins to look like a race that might keep them alive."
+    "explanation": "The escape metaphor moves from avoiding economic obsolescence to the hope that medical progress might outrun aging.",
+    "references": [
+      {
+        "label": "Longevity escape velocity · Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Longevity_escape_velocity"
+      }
+    ]
   },
   {
     "id": "EV-040",
@@ -434,7 +458,13 @@
     "timestamp_accuracy": "approximate",
     "treatment": "Generative source adaptation",
     "video_author": "anabology",
-    "explanation": "Dario Amodei’s imagined [country of geniuses](https://darioamodei.com/essay/machines-of-loving-grace) slips into the song as a promise of discovery on an almost impossible scale. A whole population of minds working at once makes the future feel suddenly closer, and much harder to take in."
+    "explanation": "The phrase comes from Dario Amodei’s thought experiment about millions of expert AI workers collaborating at accelerated speed.",
+    "references": [
+      {
+        "label": "Country of geniuses · Dario Amodei",
+        "url": "https://darioamodei.com/essay/machines-of-loving-grace"
+      }
+    ]
   },
   {
     "id": "EV-045-U",
@@ -447,7 +477,13 @@
     "timestamp_accuracy": "approximate",
     "treatment": "Generative source adaptation",
     "video_author": "anabology",
-    "explanation": "The reference to [Sora’s shutdown](https://help.openai.com/en/articles/20001152-what-to-know-about-the-sora-discontinuation) lets a real interruption flicker through the rush. A tool that seemed to offer a glimpse of tomorrow could still end with an ordinary service notice."
+    "explanation": "OpenAI announced an April 2026 shutdown for Sora’s web and app, followed by a September cutoff for its API.",
+    "references": [
+      {
+        "label": "Sora discontinuation · OpenAI",
+        "url": "https://help.openai.com/en/articles/20001152-what-to-know-about-the-sora-discontinuation"
+      }
+    ]
   },
   {
     "id": "EV-047",
@@ -472,7 +508,17 @@
     "timestamp_accuracy": "approximate",
     "treatment": "Generative source adaptation",
     "video_author": "anabology",
-    "explanation": "[/loop](https://claude.com/blog/getting-started-with-loops) turns the wish for a happier life into something you might leave running in a terminal. The phrase echoes [Anish Acharya’s vision for consumer AI](https://www.lennysnewsletter.com/p/why-companies-are-becoming-a-series), while leaving a more intimate wish sitting there on the command line."
+    "explanation": "The command echoes Anish Acharya’s consumer-AI pitch, recasting the pursuit of happiness as a task that keeps running.",
+    "references": [
+      {
+        "label": "Consumer AI · Lenny’s Podcast",
+        "url": "https://www.lennysnewsletter.com/p/why-companies-are-becoming-a-series"
+      },
+      {
+        "label": "Loop command · Anthropic",
+        "url": "https://claude.com/blog/getting-started-with-loops"
+      }
+    ]
   },
   {
     "id": "EV-049-U",
@@ -509,7 +555,8 @@
     "timestamp_accuracy": "approximate",
     "treatment": "Generative source adaptation",
     "video_author": "anabology",
-    "explanation": "The outfit wears its optimism on the outside and keeps doom against the skin. A tiny care label quietly holds both moods of the video: wanting the future to arrive, and wondering what it will cost."
+    "explanation": "The label is part of the film’s recurring use of fashion branding to package beliefs about AI as things people can wear.",
+    "references": []
   },
   {
     "id": "EV-054",
@@ -534,7 +581,13 @@
     "timestamp_accuracy": "approximate",
     "treatment": "Generative source adaptation",
     "video_author": "anabology",
-    "explanation": "The research ambition of [AGI](https://en.wikipedia.org/wiki/Artificial_general_intelligence) becomes something you can shout along to. The chorus catches the desire to feel the future arriving before anyone can quite agree that it is here."
+    "explanation": "The refrain turns a disputed threshold for machine intelligence into a shared feeling of imminent arrival.",
+    "references": [
+      {
+        "label": "AGI · Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Artificial_general_intelligence"
+      }
+    ]
   },
   {
     "id": "EV-057-U",
@@ -547,7 +600,13 @@
     "timestamp_accuracy": "approximate",
     "treatment": "Generative source adaptation",
     "video_author": "anabology",
-    "explanation": "The research ambition of [AGI](https://en.wikipedia.org/wiki/Artificial_general_intelligence) becomes something you can shout along to. The chorus catches the desire to feel the future arriving before anyone can quite agree that it is here."
+    "explanation": "The refrain turns a disputed threshold for machine intelligence into a shared feeling of imminent arrival.",
+    "references": [
+      {
+        "label": "AGI · Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Artificial_general_intelligence"
+      }
+    ]
   },
   {
     "id": "EV-064",
@@ -560,7 +619,13 @@
     "timestamp_accuracy": "approximate",
     "treatment": "Generative source adaptation",
     "video_author": "anabology",
-    "explanation": "In a world filling up with effortless output, the personal act of choosing becomes a [moat](https://en.wikipedia.org/wiki/Economic_moat). The runway makes its own case for the idea: abundance still needs an eye."
+    "explanation": "The fashion metaphor treats judgment as a lasting advantage when making more images and text becomes easy.",
+    "references": [
+      {
+        "label": "Economic moats · Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Economic_moat"
+      }
+    ]
   },
   {
     "id": "EV-065",
