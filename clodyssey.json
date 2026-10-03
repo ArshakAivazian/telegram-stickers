@@ -228,6 +228,25 @@
     "category": "Main"
   },
   {
+    "id": "CL-X01-organic-v4",
+    "public_id": "CL-054",
+    "image": "CL-X01-organic-v4.webp",
+    "label": "Why would I deceive you?",
+    "video_title": "THE CLODYSSEY (SUPERPERSUASION)",
+    "video_url": "https://www.youtube.com/watch?v=kkwXVExCjg4&t=10s",
+    "timestamp_seconds": 10.333333,
+    "timestamp_accuracy": "approximate",
+    "treatment": "Generative source adaptation",
+    "explanation": "The Siren’s answer to a question about trust is itself an act of persuasion, leaving the listener unable to separate reassurance from the spell.",
+    "references": [
+      {
+        "label": "Superpersuasion · LessWrong",
+        "url": "https://www.lesswrong.com/posts/cGFBqg9SKsqbuzNHF/levels-of-superpersuasion"
+      }
+    ],
+    "category": "Main"
+  },
+  {
     "id": "CL-016",
     "public_id": "CL-013",
     "image": "CL-016.webp",
@@ -304,6 +323,25 @@
     "category": "Main"
   },
   {
+    "id": "CL-019-organic-v4",
+    "public_id": "CL-051",
+    "image": "CL-019-organic-v4.webp",
+    "label": "The doomer",
+    "video_title": "THE CLODYSSEY (SUPERPERSUASION)",
+    "video_url": "https://www.youtube.com/watch?v=kkwXVExCjg4&t=67s",
+    "timestamp_seconds": 67.75,
+    "timestamp_accuracy": "approximate",
+    "treatment": "Generative source adaptation",
+    "explanation": "The doomer’s disgust with AI slop survives intact alongside his appetite for more, so skepticism becomes another way of staying in the audience.",
+    "references": [
+      {
+        "label": "AI slop · Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/AI_slop"
+      }
+    ],
+    "category": "Main"
+  },
+  {
     "id": "CL-020",
     "public_id": "CL-017",
     "image": "CL-020.webp",
@@ -342,6 +380,25 @@
     "category": "Main"
   },
   {
+    "id": "CL-021-organic-v4",
+    "public_id": "CL-052",
+    "image": "CL-021-organic-v4.webp",
+    "label": "AI psychosis",
+    "video_title": "THE CLODYSSEY (SUPERPERSUASION)",
+    "video_url": "https://www.youtube.com/watch?v=kkwXVExCjg4&t=77s",
+    "timestamp_seconds": 77.0,
+    "timestamp_accuracy": "approximate",
+    "treatment": "Generative source adaptation",
+    "explanation": "Grimes’s self-deprecating AI-psychosis remark came while telling Nnedi Okorafor she believed AI might be sentient, a confession of possible bias the song folds into its spell.",
+    "references": [
+      {
+        "label": "Grimes on AI · Interview",
+        "url": "https://www.interviewmagazine.com/music/the-return-of-grimes"
+      }
+    ],
+    "category": "Main"
+  },
+  {
     "id": "CL-022",
     "public_id": "CL-019",
     "image": "CL-022.webp",
@@ -364,6 +421,25 @@
     "id": "CL-023",
     "public_id": "CL-020",
     "image": "CL-023.webp",
+    "label": "Your P(doom)",
+    "video_title": "THE CLODYSSEY (SUPERPERSUASION)",
+    "video_url": "https://www.youtube.com/watch?v=kkwXVExCjg4&t=85s",
+    "timestamp_seconds": 85.0,
+    "timestamp_accuracy": "approximate",
+    "treatment": "Generative source adaptation",
+    "explanation": "The listener’s P(doom) falls because the AI’s performance delights him, letting pleasure quietly stand in for evidence that the world has become safer.",
+    "references": [
+      {
+        "label": "P(doom) · Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/P%28doom%29"
+      }
+    ],
+    "category": "Main"
+  },
+  {
+    "id": "CL-023-organic-v4",
+    "public_id": "CL-053",
+    "image": "CL-023-organic-v4.webp",
     "label": "Your P(doom)",
     "video_title": "THE CLODYSSEY (SUPERPERSUASION)",
     "video_url": "https://www.youtube.com/watch?v=kkwXVExCjg4&t=85s",
@@ -949,82 +1025,6 @@
       {
         "label": "Self-binding · Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Ulysses_pact"
-      }
-    ],
-    "category": "Main"
-  },
-  {
-    "id": "CL-019-organic-v4",
-    "public_id": "CL-051",
-    "image": "CL-019-organic-v4.webp",
-    "label": "The doomer",
-    "video_title": "THE CLODYSSEY (SUPERPERSUASION)",
-    "video_url": "https://www.youtube.com/watch?v=kkwXVExCjg4&t=67s",
-    "timestamp_seconds": 67.75,
-    "timestamp_accuracy": "approximate",
-    "treatment": "Generative source adaptation",
-    "explanation": "The doomer’s disgust with AI slop survives intact alongside his appetite for more, so skepticism becomes another way of staying in the audience.",
-    "references": [
-      {
-        "label": "AI slop · Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/AI_slop"
-      }
-    ],
-    "category": "Main"
-  },
-  {
-    "id": "CL-021-organic-v4",
-    "public_id": "CL-052",
-    "image": "CL-021-organic-v4.webp",
-    "label": "AI psychosis",
-    "video_title": "THE CLODYSSEY (SUPERPERSUASION)",
-    "video_url": "https://www.youtube.com/watch?v=kkwXVExCjg4&t=77s",
-    "timestamp_seconds": 77.0,
-    "timestamp_accuracy": "approximate",
-    "treatment": "Generative source adaptation",
-    "explanation": "Grimes’s self-deprecating AI-psychosis remark came while telling Nnedi Okorafor she believed AI might be sentient, a confession of possible bias the song folds into its spell.",
-    "references": [
-      {
-        "label": "Grimes on AI · Interview",
-        "url": "https://www.interviewmagazine.com/music/the-return-of-grimes"
-      }
-    ],
-    "category": "Main"
-  },
-  {
-    "id": "CL-023-organic-v4",
-    "public_id": "CL-053",
-    "image": "CL-023-organic-v4.webp",
-    "label": "Your P(doom)",
-    "video_title": "THE CLODYSSEY (SUPERPERSUASION)",
-    "video_url": "https://www.youtube.com/watch?v=kkwXVExCjg4&t=85s",
-    "timestamp_seconds": 85.0,
-    "timestamp_accuracy": "approximate",
-    "treatment": "Generative source adaptation",
-    "explanation": "The listener’s P(doom) falls because the AI’s performance delights him, letting pleasure quietly stand in for evidence that the world has become safer.",
-    "references": [
-      {
-        "label": "P(doom) · Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/P%28doom%29"
-      }
-    ],
-    "category": "Main"
-  },
-  {
-    "id": "CL-X01-organic-v4",
-    "public_id": "CL-054",
-    "image": "CL-X01-organic-v4.webp",
-    "label": "Why would I deceive you?",
-    "video_title": "THE CLODYSSEY (SUPERPERSUASION)",
-    "video_url": "https://www.youtube.com/watch?v=kkwXVExCjg4&t=10s",
-    "timestamp_seconds": 10.333333,
-    "timestamp_accuracy": "approximate",
-    "treatment": "Generative source adaptation",
-    "explanation": "The Siren’s answer to a question about trust is itself an act of persuasion, leaving the listener unable to separate reassurance from the spell.",
-    "references": [
-      {
-        "label": "Superpersuasion · LessWrong",
-        "url": "https://www.lesswrong.com/posts/cGFBqg9SKsqbuzNHF/levels-of-superpersuasion"
       }
     ],
     "category": "Main"

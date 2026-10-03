@@ -60,7 +60,7 @@
     "treatment": "Generative source adaptation",
     "video_author": "anabology",
     "references": [],
-    "category": "Extra"
+    "category": "Main"
   },
   {
     "id": "EV-006-U",
@@ -248,7 +248,7 @@
     "video_author": "anabology",
     "explanation": "The phrase reverses the usual relationship between person and tool, casting a human as the physical stand-in for an AI.",
     "references": [],
-    "category": "Extra"
+    "category": "Main"
   },
   {
     "id": "EV-017",
@@ -486,7 +486,7 @@
     "treatment": "Generative source adaptation",
     "video_author": "anabology",
     "references": [],
-    "category": "Extra"
+    "category": "Main"
   },
   {
     "id": "EV-033",
@@ -521,7 +521,7 @@
     "video_author": "anabology",
     "explanation": "The shrinking deadline sets up an ending where the threatened class divide disappears instead of becoming permanent.",
     "references": [],
-    "category": "Extra"
+    "category": "Main"
   },
   {
     "id": "EV-035-U",
@@ -536,7 +536,7 @@
     "video_author": "anabology",
     "explanation": "The shrinking deadline sets up an ending where the threatened class divide disappears instead of becoming permanent.",
     "references": [],
-    "category": "Extra"
+    "category": "Main"
   },
   {
     "id": "EV-036",
@@ -602,26 +602,6 @@
     "category": "Extra"
   },
   {
-    "id": "EV-042-U",
-    "public_id": "EV-037",
-    "image": "EV-042-U.webp",
-    "label": "Country of geniuses",
-    "video_title": "SLOPCORE: ESCAPE VELOCITY",
-    "video_url": "https://www.youtube.com/watch?v=C3fxudvU-UU&t=228s",
-    "timestamp_seconds": 228.7,
-    "timestamp_accuracy": "approximate",
-    "treatment": "Generative source adaptation",
-    "video_author": "anabology",
-    "explanation": "The phrase comes from Dario Amodei’s thought experiment about millions of expert AI workers collaborating at accelerated speed.",
-    "references": [
-      {
-        "label": "Country of geniuses · Dario Amodei",
-        "url": "https://darioamodei.com/essay/machines-of-loving-grace"
-      }
-    ],
-    "category": "Main"
-  },
-  {
     "id": "EV-045-U",
     "public_id": "EV-038",
     "image": "EV-045-U.webp",
@@ -639,7 +619,7 @@
         "url": "https://help.openai.com/en/articles/20001152-what-to-know-about-the-sora-discontinuation"
       }
     ],
-    "category": "Main"
+    "category": "Extra"
   },
   {
     "id": "EV-047",
@@ -789,26 +769,6 @@
     "category": "Main"
   },
   {
-    "id": "EV-064",
-    "public_id": "EV-048",
-    "image": "EV-064.webp",
-    "label": "Taste is the moat",
-    "video_title": "SLOPCORE: ESCAPE VELOCITY",
-    "video_url": "https://www.youtube.com/watch?v=C3fxudvU-UU&t=68s",
-    "timestamp_seconds": 68.9,
-    "timestamp_accuracy": "approximate",
-    "treatment": "Generative source adaptation",
-    "video_author": "anabology",
-    "explanation": "The fashion metaphor treats judgment as a lasting advantage when making more images and text becomes easy.",
-    "references": [
-      {
-        "label": "Economic moats · Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Economic_moat"
-      }
-    ],
-    "category": "Main"
-  },
-  {
     "id": "EV-065",
     "public_id": "EV-049",
     "image": "EV-065.webp",
@@ -891,7 +851,7 @@
         "url": "https://www.sanders.senate.gov/press-releases/news-sanders-casar-introduce-legislation-to-ban-artificial-superintelligence-and-temporarily-pause-advanced-ai-development/"
       }
     ],
-    "category": "Extra"
+    "category": "Main"
   },
   {
     "id": "EV-070",
@@ -911,7 +871,27 @@
         "url": "https://knowyourmeme.com/memes/its-so-over-were-so-back"
       }
     ],
-    "category": "Main"
+    "category": "Extra"
+  },
+  {
+    "id": "EV-070-BACK-R4",
+    "public_id": "EV-061",
+    "image": "EV-070-BACK-R4.webp",
+    "label": "So over so back poll",
+    "video_title": "SLOPCORE: ESCAPE VELOCITY",
+    "video_url": "https://www.youtube.com/watch?v=C3fxudvU-UU&t=177s",
+    "timestamp_seconds": 177.75,
+    "timestamp_accuracy": "approximate",
+    "treatment": "Generative source adaptation",
+    "video_author": "anabology",
+    "explanation": "An internet mood-swing meme becomes the refrain’s engine, repeatedly turning disaster into triumph.",
+    "references": [
+      {
+        "label": "Mood-swing meme · Know Your Meme",
+        "url": "https://knowyourmeme.com/memes/its-so-over-were-so-back"
+      }
+    ],
+    "category": "Extra"
   },
   {
     "id": "EV-072",
@@ -925,7 +905,21 @@
     "treatment": "Generative source adaptation",
     "video_author": "anabology",
     "references": [],
-    "category": "Extra"
+    "category": "Main"
+  },
+  {
+    "id": "EV-072-R4",
+    "public_id": "EV-060",
+    "image": "EV-072-R4.webp",
+    "label": "Did terminal",
+    "video_title": "SLOPCORE: ESCAPE VELOCITY",
+    "video_url": "https://www.youtube.com/watch?v=C3fxudvU-UU&t=210s",
+    "timestamp_seconds": 210.95,
+    "timestamp_accuracy": "approximate",
+    "treatment": "Generative source adaptation",
+    "video_author": "anabology",
+    "references": [],
+    "category": "Main"
   },
   {
     "id": "EV-074",
@@ -939,7 +933,7 @@
     "treatment": "Generative source adaptation",
     "video_author": "anabology",
     "references": [],
-    "category": "Extra"
+    "category": "Main"
   },
   {
     "id": "EV-078",
@@ -974,39 +968,5 @@
       }
     ],
     "category": "Extra"
-  },
-  {
-    "id": "EV-072-R4",
-    "public_id": "EV-060",
-    "image": "EV-072-R4.webp",
-    "label": "Did terminal",
-    "video_title": "SLOPCORE: ESCAPE VELOCITY",
-    "video_url": "https://www.youtube.com/watch?v=C3fxudvU-UU&t=210s",
-    "timestamp_seconds": 210.95,
-    "timestamp_accuracy": "approximate",
-    "treatment": "Generative source adaptation",
-    "video_author": "anabology",
-    "references": [],
-    "category": "Extra"
-  },
-  {
-    "id": "EV-070-BACK-R4",
-    "public_id": "EV-061",
-    "image": "EV-070-BACK-R4.webp",
-    "label": "So over so back poll",
-    "video_title": "SLOPCORE: ESCAPE VELOCITY",
-    "video_url": "https://www.youtube.com/watch?v=C3fxudvU-UU&t=177s",
-    "timestamp_seconds": 177.75,
-    "timestamp_accuracy": "approximate",
-    "treatment": "Generative source adaptation",
-    "video_author": "anabology",
-    "explanation": "An internet mood-swing meme becomes the refrain’s engine, repeatedly turning disaster into triumph.",
-    "references": [
-      {
-        "label": "Mood-swing meme · Know Your Meme",
-        "url": "https://knowyourmeme.com/memes/its-so-over-were-so-back"
-      }
-    ],
-    "category": "Main"
   }
 ]
